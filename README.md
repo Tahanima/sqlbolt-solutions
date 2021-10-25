@@ -16,3 +16,4 @@ This repository contains my solutions of [SQLBolt](https://sqlbolt.com/) exercis
 | [SQL Lesson 11: Queries with aggregates (Pt. 2)](https://sqlbolt.com/lesson/select_queries_with_aggregates_pt_2) | [[Link]](./sql_lesson11_queries_with_aggregates_pt2.sql) |
 | [SQL Lesson 12: Order of execution of a Query](https://sqlbolt.com/lesson/select_queries_order_of_execution) | [[Link]](./sql_lesson12_order_of_execution_of_a_query.sql) |
 | [SQL Lesson 13: Inserting rows](https://sqlbolt.com/lesson/inserting_rows) | [[Link]](./sql_lesson13_inserting_rows.sql) |
+| [SQL Lesson 14: Updating rows](https://sqlbolt.com/lesson/updating_rows) | [[Link]](./sql_lesson14_updating_rows.sql) |
