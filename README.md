@@ -20,3 +20,4 @@ This repository contains my solutions of [SQLBolt](https://sqlbolt.com/) exercis
 | [SQL Lesson 15: Deleting rows](https://sqlbolt.com/lesson/deleting_rows) | [[Link]](sql_lesson15_deleting_rows.sql) |
 | [SQL Lesson 16: Creating tables](https://sqlbolt.com/lesson/creating_tables) | [[Link]](./sql_lesson16_creating_tables.sql) |
 | [SQL Lesson 17: Altering tables](https://sqlbolt.com/lesson/altering_tables) | [[Link]](./sql_lesson17_altering_tables.sql) |
+| [SQL Lesson 18: Dropping tables](https://sqlbolt.com/lesson/dropping_tables) | [[Link]](./sql_lesson18_dropping_tables.sql) |
