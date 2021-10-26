@@ -18,3 +18,4 @@ This repository contains my solutions of [SQLBolt](https://sqlbolt.com/) exercis
 | [SQL Lesson 13: Inserting rows](https://sqlbolt.com/lesson/inserting_rows) | [[Link]](./sql_lesson13_inserting_rows.sql) |
 | [SQL Lesson 14: Updating rows](https://sqlbolt.com/lesson/updating_rows) | [[Link]](./sql_lesson14_updating_rows.sql) |
 | [SQL Lesson 15: Deleting rows](https://sqlbolt.com/lesson/deleting_rows) | [[Link]](sql_lesson15_deleting_rows.sql) |
+| [SQL Lesson 16: Creating tables](https://sqlbolt.com/lesson/creating_tables) | [[Link]](./sql_lesson16_creating_tables.sql) |
